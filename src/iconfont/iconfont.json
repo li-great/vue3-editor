@@ -1,0 +1,79 @@
+{
+  "id": "3399927",
+  "name": "vue-editor",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5387522",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "eaf2",
+      "unicode_decimal": 60146
+    },
+    {
+      "icon_id": "297679",
+      "name": "文本编辑",
+      "font_class": "wenbenbianji",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "10352342",
+      "name": "预览",
+      "font_class": "yulan",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "5063838",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "3255777",
+      "name": "置顶",
+      "font_class": "control-top",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "3255778",
+      "name": "置底",
+      "font_class": "control-bottom",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "11399566",
+      "name": "导入",
+      "font_class": "daoru",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "20853324",
+      "name": "导出",
+      "font_class": "daochu",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "19657548",
+      "name": "重做",
+      "font_class": "redo",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "19657550",
+      "name": "撤销",
+      "font_class": "undo",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
