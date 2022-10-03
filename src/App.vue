@@ -14,7 +14,6 @@ export default {
     Editor,
   },
   setup() {
-    
     const state = ref(data);
     provide("config", config);
     const formData = ref({
