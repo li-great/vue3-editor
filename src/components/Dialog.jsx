@@ -34,7 +34,8 @@ const DialogComponent = defineComponent({
               <ElInput
                 type="textarea"
                 v-model={state.option.content}
-                rows={10}></ElInput>
+                rows={10}
+              ></ElInput>
             ),
             footer: () =>
               state.option.footer && (
